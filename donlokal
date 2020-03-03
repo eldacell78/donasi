@@ -75,7 +75,9 @@ http://host4.dynns.com/stream/6744e98748214c32912a46d1c7277d55.m3u8
 #https://www.doofree88.com/streaming/hd-foxaction_720/index.m3u8
 #http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/53
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/dQpYdvP2/foxFam4.png" group-title="Movies",FOX Family Movies HD
-http://203.153.218.28:9981/stream/channelid/1949182550?ticket=C4FE458C6B9C4686BA0966E59174C0D6805DBB39&profile=pass
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
+
+#http://203.153.218.28:9981/stream/channelid/1949182550?ticket=C4FE458C6B9C4686BA0966E59174C0D6805DBB39&profile=pass
 #http://streamku.live:8888/live/masmuto/masmuto20/584.ts
 #https://doofree88.com/streaming/hd-foxfamily_720/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/26ZBvNZj/citra4.png" group-title="Movies",Citra Bioskop
@@ -100,7 +102,10 @@ http://streamku.live:8888/live/masmuto/masmuto20/539.ts
 #http://msl.tvbayoplus.com:9083/live/lmgr218-live1/F8/6x/F86xTagKpWyjsAWhpFhRYQ==/live.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/7L5J5QdP/fox4.png" group-title="Entertainment",FOX HD
 #http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/55
-https://doofree88.com/streaming/sd-fox_720/index.m3u8
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
+
+
+#https://doofree88.com/streaming/sd-fox_720/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Jz6B4WTd/kix4.png" group-title="Entertainment",KIX
 http://210.210.155.35/uq2663/h/h07/01.m3u8
 #https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX.m3u8
