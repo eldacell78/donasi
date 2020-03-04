@@ -43,10 +43,7 @@ http://skdn.redi-vo.com/iptv/ch1284?code=103131497823984&key=11345
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52GnyqmG/f14.png" group-title="SPORTS",FORMULA 1 ESP
 http://skdn.redi-vo.com/iptv/ch1285?code=103131497823984&key=47444
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MT4yQg86/champ1.png" group-title="SPORTS",Champion TV 1
-http://streamku.live:8888/live/masmuto/masmuto20/504.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MT4yQg86/champ1.png" group-title="SPORTS",Champion TV 1+
-#https://etslive-2-vidio-com.akamaized.net/exp=1582984743~acl=/hls-b/ingest_geo_6685_*/*~hmac=6f74b184dd74d55b07ff82e7e05b38e657db273a10cfc84af0be531d96d868a2/hls-b/ingest_geo_6685_480p/index.m3u8
-
+http://103.28.148.205:25461/wibowo285/12345678/2407?token=QhBYV0dYRg4TWlFXVlEIU1UHAwBVXAdUAAEJCFICWVQMVgADUgJRAlQaSBAQEEJXVQhvWgIbCVcNBAcdQ0MSB0ttWVIWCkYDBQtUC0FIEkZdCFURXAgGXQoHAwBZAFhOG0JZUhYKRgUAClcAQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgpfFFoNThtQWUJGURBREwJGA1dcBRAYR1NcE1dHF0AWChMockNOG1dIQlFeF11eVkYIQRBDEBhHWUA5S1YWTUZVUAxTE0ADEAAUGBIJVUlnB10NClVRQAxfXRUbCUcIFhwTDFkPC01dQmlEWQAWCxpSBFVcEk8=
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRgsg4SD/champ2.png" group-title="SPORTS",Champion TV 2
 http://streamku.live:8888/live/masmuto/masmuto20/505.ts
