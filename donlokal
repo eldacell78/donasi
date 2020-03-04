@@ -28,7 +28,11 @@ https://doofree88.com/streaming/sd-asianseriesalt_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/632VgCH1/MOV4.png" group-title="Movies",MOVIES NOW
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/nzD70pzy/TH4.png" group-title="Movies",Thrill
-https://doofree88.com/streaming/sd-thrill_480/index.m3u8
+http://210.210.155.35/qwr9ew/s/s34/01.m3u8?fluxustv.m3u8
+http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
+
+
+#https://doofree88.com/streaming/sd-thrill_480/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vH317ch1/CMAX4.png" group-title="Movies",Cinemax
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
 #https://doofree88.com/streaming/sd-filmasia_480/index.m3u8
@@ -53,8 +57,11 @@ https://doofree88.com/streaming/hd-warnertv_720/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/y6hDzPhG/hits4.png" group-title="Movies",HITS Movies
 
+http://210.210.155.35/session/65ec035a-73b5-11e9-b55c-a0bcb43577ab/uq2663/h/h37/01.m3u8
 
-https://doofree88.com/streaming/sd-moviehits_480/index.m3u8
+
+
+#ttps://doofree88.com/streaming/sd-moviehits_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yNJJ4Cnh/my4.png" group-title="Movies",MY CINEMA
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/4NcTQMsr/foxM4.png" group-title="Movies",FOX Movies Premium HD
