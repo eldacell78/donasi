@@ -446,7 +446,11 @@ http://bogor.nagaswarafm.com:8088/stream
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8
 #http://rtm1hdmobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vmSXSg3W/tv24.png" group-title="Malaysia",TV2
-https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8
+
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8
+
+
+#https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8
 #https://rtm5hdmobile.secureswiftcontent.com/Origin1/ngrp:RTM1/chunklist_b1064000.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/HLLB244Y/tv34.png" group-title="Malaysia",TV3
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHdnOHLh1t91ne-HuQ510Gy0)/dm/3/x6qp375/d/live-3.m3u8#%7CReferer=https://www.dailymotion.com
