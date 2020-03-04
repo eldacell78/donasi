@@ -31,6 +31,17 @@ http://streamku.live:8888/live/masmuto/masmuto20/516.ts
 https://www.doofree88.com/streaming/epl-bein1_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2fsSbRK/b2pl.png" group-title="SPORTS",BEIN 2 PREMIER LEAGUE
 https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="SPORTS",FOX Sport 1 ESP
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/784.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="SPORTS",FOX Sport 2 ESP
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/785.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png" group-title="SPORTS",FOX Sport 3 ESP
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/786.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0Z4ZXS0/moto4.png" group-title="SPORTS",MOTOGP ESP
+http://skdn.redi-vo.com/iptv/ch1284?code=103131497823984&key=11345
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/52GnyqmG/f14.png" group-title="SPORTS",FORMULA 1 ESP
+http://skdn.redi-vo.com/iptv/ch1284?code=103131497823984&key=11345
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MT4yQg86/champ1.png" group-title="SPORTS",Champion TV 1
 http://streamku.live:8888/live/masmuto/masmuto20/504.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MT4yQg86/champ1.png" group-title="SPORTS",Champion TV 1+
